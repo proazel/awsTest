@@ -1,0 +1,11 @@
+ls      디렉토리 내용 보기(현 위치)
+ls -al  디렉토리 상세 보기
+* 10글자
+x xxx xxx xxx 계정명 계정명
+d rwx r-x r-x 계정명 계정명
+pwd     내 경로 보기
+cd /    최상위 디렉토리
+cd ~    우리가 작업 할 디렉토리
+
+sudo su     계정이 ubuntu
+            계정이 root
